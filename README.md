@@ -1,1 +1,1 @@
-"# Simple_Chatty_Bot" 
+JetBrains Academy Java project
